@@ -1,0 +1,13 @@
+# Ambiente virtuale
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Dati grezzi — non versionare file pesanti
+eu_loneliness_survey_eu27_values.csv
+
+# Output generati — riproducibili dal notebook
+output/
