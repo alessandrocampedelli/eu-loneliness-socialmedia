@@ -27,6 +27,7 @@ eu-loneliness-socialmedia/
 │
 ├── LICENSE
 ├── .gitignore
+├── Studio_Gruppo_2_HDS.pdf                # Relazione Finale dello studio
 │
 └── output/                                # Generata automaticamente all'esecuzione
     ├── dataset/
